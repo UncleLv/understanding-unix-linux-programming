@@ -20,7 +20,7 @@
 
 #### [argc和argv](https://www.cprogrammingbasics.com/argv-and-argc/)
 
-argc和argv是main函数的可选参数。argv是字符串数组，argc是参数的总数。argv的第一个元素程序的名称。
+argc和argv是main函数的可选参数。argv是字符串数组，argc是参数的总数。argv的第一个元素是程序的名称。
 
 ```c
 // demo.c
